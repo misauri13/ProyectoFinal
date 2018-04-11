@@ -1,0 +1,3 @@
+C:\Users\Misael\Desktop\promedio ponderado\programacion estructurada (promedio pon..)\programacion estructurada (promedio pon..)\bin\Debug\programacion_estructurada__promedio_pon._._.exe.config
+C:\Users\Misael\Desktop\promedio ponderado\programacion estructurada (promedio pon..)\programacion estructurada (promedio pon..)\obj\Debug\programacion_estructurada__promedio_pon._._.exe
+C:\Users\Misael\Desktop\promedio ponderado\programacion estructurada (promedio pon..)\programacion estructurada (promedio pon..)\obj\Debug\programacion_estructurada__promedio_pon._._.pdb
